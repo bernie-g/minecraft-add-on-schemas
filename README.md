@@ -22,7 +22,7 @@ These steps are for [Visual Studio Code](https://code.visualstudio.com/)
                 "/*.behavior.json",
                 "/behaviors/entities/*.json"
             ],
-            "url": "https://raw.githubusercontent.com/BlueFrog130/minecraft-add-on-schemas/master/entity.schema.json"
+            "url": "https://raw.githubusercontent.com/bernie-g/minecraft-add-on-schemas/master/entity.schema.json"
         }
     ]
 ```

@@ -1,6 +1,6 @@
 {
     "$schema": "http://json-schema.org/draft/2019-09/schema",
-    "additionalProperties": "false",
+    "additionalProperties": false,
     "default": {},
     "anyOf": [
         { "$ref": "#/definitions/filter" },
