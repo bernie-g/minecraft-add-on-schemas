@@ -65,11 +65,11 @@
                 "events": {
                     "type": "object",
                     "allOf": [
-                        { "$ref": "https://raw.githubusercontent.com/BlueFrog130/minecraft-add-on-schemas/master/entities/built-in_events.schema.json" },
+                        { "$ref": "https://raw.githubusercontent.com/bernie-g/minecraft-add-on-schemas/master/entities/built-in_events.schema.json" },
                         {
                             "patternProperties": {
                                 "^.*$": {
-                                    "$ref": "https://raw.githubusercontent.com/BlueFrog130/minecraft-add-on-schemas/master/types/event.schema.json"
+                                    "$ref": "https://raw.githubusercontent.com/bernie-g/minecraft-add-on-schemas/master/types/event.schema.json"
                                 }
                             },
                             "additionalProperties": false,
